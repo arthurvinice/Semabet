@@ -1,5 +1,5 @@
 -----------------------
-TRABALHO FRONT-END
+TRABALHO DA DISCIPLINA DESENVOLVIMENTO WEB FRONT-END
 Prof. Jorge Chrystiann
 -----------------------
 
