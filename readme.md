@@ -1,5 +1,3 @@
-Proposta de site de apostas para a Semadec do IFCN. 
-
 -----------------------
 TRABALHO FRONT-END
 Prof. Jorge Chrystiann
